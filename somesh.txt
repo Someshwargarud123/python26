@@ -1,0 +1,5 @@
+- Install. Click Exit when activation pops up.
+
+- Replace patch in the following path:
+
+C:\Program Files\Tableau\Tableau 2019.3\bin
