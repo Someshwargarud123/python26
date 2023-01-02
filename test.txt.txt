@@ -6,9 +6,8 @@ my roles and responsibitity is
 1. Involved in requirement analysis
 2. Low level design
 3. Programing
-4
-5
-6
-7
-8
-9
+4. Deploy on Quality server
+5. Deploy on preproduction Server
+6. Client Interaction
+7. Defect Fixing 
+8. After deploy the code on production I have also involved in code performance validation matrics
