@@ -3,9 +3,12 @@ I am from Pohegaon
 i am 26 year old
 I am currently working as a python data scientist
 my roles and responsibitity is 
-1
-2
-3
+1. Involved in requirement analysis
+2. Low level design
+3. Programing
 4
 5
-678
+6
+7
+8
+9
